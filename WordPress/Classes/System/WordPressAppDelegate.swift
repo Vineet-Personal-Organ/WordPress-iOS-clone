@@ -4,8 +4,11 @@ import Reachability
 import AutomatticTracks
 import WordPressAuthenticator
 import WordPressShared
+import facebookiossdk
 import AlamofireNetworkActivityIndicator
 import AutomatticAbout
+import Poppo
+import soto
 
 #if APPCENTER_ENABLED
 import AppCenter
